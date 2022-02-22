@@ -1,0 +1,4 @@
+name: StorePlugin
+version: '${project.version}'
+main: firedhero.storeplugin.StorePlugin
+api-version: 1.18
